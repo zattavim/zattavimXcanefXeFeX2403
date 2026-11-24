@@ -1684,6 +1684,7 @@ local function triggerAndVerifyEvidence(evInfo)
 
     return false
 end
+
 -- ==========================================
 -- BUTON BAĞLANTILARI
 -- ==========================================
